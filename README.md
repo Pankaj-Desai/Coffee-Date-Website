@@ -1,5 +1,7 @@
 # ☕ Coffee Date Proposal — for Mohini
 
+🌐 **Live Page:** [https://pankaj-desai.github.io/Coffee-Date-Website/](https://pankaj-desai.github.io/Coffee-Date-Website/)
+
 > A cute, interactive proposal page built with pure HTML, CSS & JavaScript.  
 > Because some questions deserve more than just a text message. 🥺❤️
 
@@ -30,6 +32,68 @@ This is a fun little web page Pankaj built to ask Mohini out on a coffee date �
 
 ```
 index.html   ← the entire app, single self-contained file
+README.md    ← you're reading it!
+```
+
+No frameworks. No dependencies. No build step. Just one HTML file. 🙌
+
+---
+
+## 🚀 Deployment
+
+Deployed on **GitHub Pages** — because love deserves a URL. 💘
+
+To deploy your own copy:
+
+1. Fork or clone this repo
+2. Go to **Settings → Pages**
+3. Set source to `main` branch, `/ (root)`
+4. GitHub will give you a live link in seconds ✅
+
+---
+
+## 🎬 How it works — the flow
+
+```
+Page 1 — The Question
+   ↓ (she clicks Yes ❤️)
+Page 2 — Celebration 🎉
+   ↓ (she clicks "Now pick a date!")
+Page 3 — Date & Time Picker 📅
+   ↓ (she confirms)
+Page 4 — Summary Card + Copy to share with Pankaj 💌
+```
+
+---
+
+## 🛠️ Built with
+
+- HTML5
+- CSS3 (custom animations, gradients, responsive layout)
+- Vanilla JavaScript (no libraries)
+- Google Fonts — Playfair Display & Nunito
+- A lot of ☕ and ❤️
+
+---
+
+## 📸 Pages Preview
+
+| Page | Description |
+|------|-------------|
+| 🥺 Question | Yes / No buttons with floating hearts in the background |
+| 🎉 Celebration | Raining hearts and a big YAYYYY moment |
+| 📅 Date Picker | Custom calendar + time slot selector |
+| 💌 Summary Card | Confirmed date details with the "No" attempt count 😂 |
+
+---
+
+## ❤️ Made by
+
+**Pankaj** — for Mohini, with way too much effort for a coffee date request. Worth it. ☕🥰
+
+---
+
+> *"Life has many important questions... this is the biggest one."*index.html   ← the entire app, single self-contained file
 README.md    ← you're reading it!
 ```
 
